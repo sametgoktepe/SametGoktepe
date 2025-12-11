@@ -83,7 +83,7 @@ I'm a passionate software developer focused on **Backend Architecture** and **De
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sametgoktepe&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Samet's Stats" height="180"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sametgoktepe)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametgoktepe&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180"/>
 
 <br/>
